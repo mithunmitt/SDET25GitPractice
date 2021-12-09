@@ -8,6 +8,9 @@ public class Demo {
 	public void test()
 	{
 		System.out.println("Demo 1 Started");
+		System.out.println("Demo 2 Started");
+
 	}
+
 
 }
